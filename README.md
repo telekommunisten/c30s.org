@@ -7,11 +7,17 @@ some notes from the 26.08 meeting
 writing is civilization
 
 the calc: https://ethercalc.org/7a9kz9vx3n 
-re-evaluate 
+re-evaluate whthere the criteria should be merged or subdivided
 elaborate long versions of the calc criteria fields
 
+self-interview / form -> getting participants priorities straight : what goals should we work toward.
+
 we need to define goals
-  - some are 
+  - some are political (changege something)
+  - some hare technical (study /research)
+  - some are practical (build something)
+
+goal for 9.9 have pellican instance publishing  this content to IPFS, Tahoe LAFS and here. 
 
 
 
