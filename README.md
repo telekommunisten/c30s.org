@@ -19,6 +19,7 @@ we need to define goals
 
 goal for 9.9 have pellican instance publishing  this content to IPFS, Tahoe LAFS and here. 
 
+infinity0's text: https://gist.github.com/infinity0/bbd61a233cd76b1b380e
 
 
 # moderate term goals
