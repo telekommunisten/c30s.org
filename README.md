@@ -14,7 +14,7 @@ self-interview / form -> getting participants priorities straight : what goals s
 
 we need to define goals
   - some are political (changege something)
-  - some hare technical (study /research)
+  - some are technical (study /research)
   - some are practical (build something)
 
 goal for 9.9 have pellican instance publishing  this content to IPFS, Tahoe LAFS and here. 
