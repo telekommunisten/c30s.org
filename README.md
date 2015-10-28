@@ -3,7 +3,7 @@ stuff which will eventually go public on our
 
 new intro: intended to provide political/social contex especially less technically-oriented participants:
 
-Counterantidisintermediationism, the longest word in the English language, is a  program which supports efforts to disintermediate networked communications.  Disintermediation refers to the effort to provide end-to-end communication and network functionality free from intermediate nodes, especially centrally owned and operated servers.   The promise of disintermendiated applications and development is  
+Counterantidisintermediationism, the longest word in the English language, is a  program which supports efforts to disintermediate networked communications.   Intermediation is a problem to be confronted in every sphere of human activity. Within this c30s group disintermediation refers primarily to the effort to provide end-to-end communication and network functionality free from intermediate nodes, especially centrally owned and operated servers.  The promise of disintermendiated applications and development is  
 
     1. a web of high-performance social interaction applicaations where the functionality is hosted locally (i.e. the servers are the users's computers). Distributed applications could scale to compete with large services such as Facebook or Google without the high overhead of purchasing and maintaining large 'metal' server infrastructure.  Computation takes place distributed-locally on the users' omputers.  In principle, this can weaken the potential for capital to monopolize user data and exploit social and other exchange on the Internet.   
 
