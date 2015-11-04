@@ -1,5 +1,5 @@
-# c31s.org
-stuff which will eventually go public on our 
+# c30s.org
+stuff which will eventually go public on our website
 
 new intro: intended to provide political/social contex especially less technically-oriented participants:
 
