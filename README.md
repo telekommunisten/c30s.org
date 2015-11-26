@@ -23,7 +23,7 @@ Counterantidisintermediation therefore directs its energies on two fronts:
 
 ::::
 
-the story so far: BCRG -> end2end initiative -> C31S
+the story so far: BCRG -> end2end initiative -> C30S
 
 some notes from the 26.08 meeting
 writing is civilization
