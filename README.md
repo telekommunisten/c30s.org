@@ -23,9 +23,9 @@ Counterantidisintermediation therefore directs its energies on two fronts:
 
 ::::
 
-the story so far: BCRG -> end2end initiative -> C30S
+the story so far: BCRG -> end2end (E2E) initiative -> C30S
 
-some notes from the 26.08 meeting
+some notes from the last meeting
 writing is civilization
 
 the calc: https://ethercalc.org/7a9kz9vx3n 
@@ -35,7 +35,7 @@ elaborate long versions of the calc criteria fields
 self-interview / form -> getting participants priorities straight : what goals should we work toward.
 
 we need to define goals
-  - some are political (changege something)
+  - some are political (change something)
   - some are technical (study /research)
   - some are practical (build something)
 
@@ -52,5 +52,7 @@ infinity0's text: https://gist.github.com/infinity0/bbd61a233cd76b1b380e
 
 # Very long-term goals
 (tech) real end to end communication
+
 (pol) mandated NAT traversal
+
 (all) defeat capitalism
